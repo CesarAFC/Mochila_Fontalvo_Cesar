@@ -4,6 +4,8 @@
 
 `git add <archivo>`: Agrega un archivo al área de preparación para ser incluido en el próximo commit.
 
+# Git CheatSheet
+
 `git commit -m "Mensaje"`: Crea un nuevo commit con los archivos en el área de preparación y un mensaje descriptivo.
 
 `git status`: Muestra el estado actual del repositorio, mostrando los archivos modificados, agregados o eliminados.
