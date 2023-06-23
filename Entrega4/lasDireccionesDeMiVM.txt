@@ -1,0 +1,9 @@
+ip:   Direc. inet:10.0.2.15
+MAC:  direcciónHW 08:00:27:93:73:2d
+
+host
+ ip: 192.168.56.1
+MAc: B4-45-06-55-E1-A9 Dell inc
+
+la ip privada es diferente en la maquina host mientras que
+ en la ip publica es la misma     
